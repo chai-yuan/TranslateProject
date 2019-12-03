@@ -7,14 +7,13 @@
 [#]: via: (https://opensource.com/article/19/11/linux-open-source-spanish)
 [#]: author: (Chris Hermansen https://opensource.com/users/clhermansen)
 
-My Linux story: Covering open source in Spanish
+我的Linux故事：用西班牙语介绍开源
 ======
-Meet Lorenzo Carbonell, who brings GNU/Linux and open source to the
-Spanish-speaking community through his blog site, El Atareao, and
-applications.
+Lorenzo Carbonell通过他的博客El Atareao和应用软件将GNU/Linux和开源引入了西班牙语社区
 ![Guy on a laptop on a building][1]
 
 From time to time, when I'm looking for some help on how to do something on my GNU/Linux desktop or server, I'll come across an article or conversation in a language other than English. If that language happens to be French or Spanish, that's fine for me. If it's in Portuguese or Italian, I can stumble through it. And, for other languages, occasionally, I'll give one of those online AI translators a go in the hopes of gleaning something useful.
+有时，当我在寻找如何在GNU/Linux桌面或服务器上做某事的帮助时，我会遇到一篇用英语以外的语言写的文章或对话。如果那门语言碰巧是法语或西班牙语，那对我没关系。如果是葡萄牙语或意大利语的话，我可以不经意地读出来。而且，对于其他语言，偶尔，我会给其中一个在线人工智能翻译一次机会，希望能收集一些有用的东西。
 
 But for folks who are comfortable only in English, I suspect that many potentially useful (and sometimes very entertaining) sources are unknown and ignored. And what are the options for people who aren't comfortable in English, when so much that is written about open source (and many other topics) is in English?
 
